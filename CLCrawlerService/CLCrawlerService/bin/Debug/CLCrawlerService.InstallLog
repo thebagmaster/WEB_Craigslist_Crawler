@@ -1,0 +1,32 @@
+﻿Installing assembly 'C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.InstallLog
+   assemblypath = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe assembly.
+Committing assembly 'C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.InstallLog
+   assemblypath = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe assembly.
+Remove InstallState file because there are no installers.
+Uninstalling assembly 'C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.InstallLog
+   assemblypath = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe
+No public installers with the RunInstallerAttribute.Yes attribute could be found in the C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe assembly.
+Installing assembly 'C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.InstallLog
+   assemblypath = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe
+Installing service clcrawler...
+Service clcrawler has been successfully installed.
+Creating EventLog source clcrawler in log Application...
+Committing assembly 'C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.InstallLog
+   assemblypath = C:\Users\Dan\Documents\Visual Studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe

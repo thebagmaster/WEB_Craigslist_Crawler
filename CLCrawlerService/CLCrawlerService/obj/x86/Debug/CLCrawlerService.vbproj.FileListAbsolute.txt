@@ -1,0 +1,12 @@
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.exe
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.pdb
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\bin\Debug\CLCrawlerService.xml
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\CLCrawlerService.Resources.resources
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\ResGen.read.1.tlog
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\ResGen.write.1.tlog
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\CLCrawlerService.exe
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\CLCrawlerService.xml
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\CLCrawlerService.pdb
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\CLCrawlerService.ProjectInstaller.resources
+c:\users\dan\documents\visual studio 2010\Projects\CLCrawlerService\CLCrawlerService\obj\x86\Debug\CLCrawlerService.clcrawler.resources
