@@ -1,0 +1,122 @@
+.stateHolder {
+	font-size: 12px;
+	font-family: Verdana;
+	font-weight: 900;
+	color: #551A8B;
+	letter-spacing:2px;
+	border: 1px solid #551A8B;
+	width: 217px;
+	position: relative;
+	text-align:center;
+	display: inline;
+	float: left;
+	margin-left: -1px;
+	-webkit-user-select: none;
+	-Moz-user-select: none;
+}
+#resultsContainer {
+	width: 600px;
+	display: inline;
+	float: left;
+	position: relative;
+	border: 1px solid #551A8B;
+	margin-left: -1px;
+	text-align:left;
+	top: 0px;
+	overflow: hidden;
+	font-family: Verdana;
+	font-weight: normal;
+	padding: 3px;
+	-webkit-user-select: none;
+	-Moz-user-select: none;
+}
+.p {
+	color: orange;
+	font-size: smaller;
+}
+.row {
+	height: 20px;
+	overflow:auto;
+}
+.other {
+	display: block;
+	margin: 10px;
+}
+.search {
+	background-color: #f0f0f0;
+	color: #551A8B;
+	width: 180px;
+	font-size: 20px;
+	font-family: Verdana;
+	font-weight: 900;
+	cursor: hand;
+	padding: 10px;
+	margin: 10px;
+}
+#logo{
+	color: #551A8B;
+	font-weight: 500;
+	font-family: serif;
+	font-size: 200%;
+
+	cursor: hand;
+	width: 400px !important;
+	position: relative;
+}
+.state {
+	height: 15px;
+	width: 210px;
+	background-color: #fff;
+	color: #551A8B;
+	cursor: hand;
+	position: relative;
+	font-size: 12px;
+	font-family: Verdana;
+	font-weight: normal;
+	overflow: hidden;
+	letter-spacing:2px;
+	border: 1px solid #fff;
+	border-color: #fff #fff #551A8B #fff;
+	-webkit-user-select: none;
+	-Moz-user-select: none;
+	padding-left: 5px;
+	display:block;
+	text-align:left;
+}
+.city, .cata {
+	top: 1px;
+	padding-left: 5px;
+	color: #551A8B;
+	background-color: #fff;
+	position: relative;
+}
+.check {
+	top: -2px;
+	right: 0px;
+	position:absolute;
+}
+
+.stats
+{
+	text-align: right;
+}
+.counter
+{
+	padding:3px;
+}
+.price{
+	width:50px;
+}
+#statsContainer {
+	position:absolute;
+	top:-70px;
+	left:0px;
+	border: 1px solid #551A8B;
+	color: #551A8B;
+	font-size: 12px;
+	font-family: Verdana;
+	font-weight: normal;
+	padding: 3px;
+	-webkit-user-select: none;
+	-Moz-user-select: none;
+}
